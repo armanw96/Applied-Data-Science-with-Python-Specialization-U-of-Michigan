@@ -1,0 +1,12 @@
+Quiz 2 answers: 
+
+1.	Obj2[‘california’] == None
+2.	S.iloc[0:3]
+3.	Df.rename(mapper=lambda:x,upper(),axis=1)
+4.	Df.where(df[‘toefly score’] >105)
+5.	All of these work
+6.	Df.drop(‘two)
+7.	S2.loc[1]
+8.	Loc and iloc are two useful and commonly used pandas methods
+9.	D(df[‘toefly score’]>105 & (df[‘toefly score’] <115)
+10.	Df.t[‘mathermatics’]
